@@ -1,0 +1,4 @@
+tags
+*.beam
+.config
+.idea
